@@ -5,7 +5,7 @@
  * @args: list of arguments
  *
  * Return: number of chars printed
- */
+*/
 int _print_decimal(va_list args)
 {
 	int a[10];
