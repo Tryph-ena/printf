@@ -5,7 +5,7 @@
  * @c: char to print
  *
  * Return: number of chars printed (always 2)
- */
+*/
 static int hex_print(char c)
 {
 	int count;
@@ -29,7 +29,7 @@ static int hex_print(char c)
  * @args: the arguments list
  *
  * Return: 1 (number of chars printed)
- */
+*/
 int _print_char(va_list args)
 {
 	char ch = (char)va_arg(args, int);

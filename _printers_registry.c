@@ -6,7 +6,7 @@
  *
  * Return: the printer found. if no valid printer exists,
  * a default NULL-based printer is returned
- */
+*/
 printer _get_printer(const char *specifier)
 {
 	int i;
