@@ -1,4 +1,4 @@
-##A printf project for Teyira and Tryphena.
+## A printf project for Teyira and Tryphena.
 # 0x10: C - printf
 For this project we wrote own `printf` function. Our version of `printf` currently handles the following conversion specifiers:
 
